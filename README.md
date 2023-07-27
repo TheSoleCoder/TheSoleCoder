@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheSoleCoder
+- 👋 Hi, I’m Kuldeep Sharma aka @TheSoleCoder
 - 👀 I’m interested in Python and Data Analysis
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Many Projects under Eli-Lilly
